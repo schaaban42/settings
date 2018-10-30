@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.rulers": [80],
+    "window.zoomLevel": 2,
+    "terminal.integrated.fontSize": 14,
+    "telemetry.enableTelemetry": false,
+    "42header.email": "schaaban@student.42.fr",
+    "42header.username": "schaaban",
+}
